@@ -18,7 +18,7 @@
   <!-- Stylesheets -->
   <link rel="stylesheet" href="css/script.css">
   <link rel="stylesheet" href="css/normalize.css">
-   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link rel="stylesheet" href="font/font-awesome/css/font-awesome.min.css">
   <link rel="stylesheet" href="libs/materialize/css/materialize.min.css" media="screen,projection" />
   <link rel="stylesheet" href="css/bootstrap.css" media="screen,projection" />
