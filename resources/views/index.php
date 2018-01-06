@@ -758,7 +758,7 @@
   <script src="js/waypoints.js"></script>
   <script src="js/jquery.counterup.min.js"></script>
   <script src="js/jquery.nicescroll.min.js"></script>
-  <script type="text/javascript" src="https://maps.google.com/maps/api/js?key=AIzaSyBcqxNskuhKww0pXq7BydUUBwqFphRWv6Q?sensor=true"></script>
+  <script type="text/javascript" src="https://maps.google.com/maps/api/js?key=AIzaSyBcqxNskuhKww0pXq7BydUUBwqFphRWv6Q"></script>
   <script src="js/gmaps.js"></script>
   <script src="libs/owl-carousel/owl.carousel.min.js"></script>
   <script src="libs/materialize/js/materialize.min.js"></script>
