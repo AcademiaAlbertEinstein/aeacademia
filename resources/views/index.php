@@ -61,7 +61,7 @@
                     <li class="mobile-profile">
                      <div class="profile-inner">
                         <div class="pp-container">
-                            <img src="images/person-min.png" alt="">
+                            <img src="images/person-min.jpg" alt="">
                         </div>
                         <h3>Academia Albert Einstein</h3>
                         <h5>Donde el trabajo y la perseverancia es más fuerte que el acero</h5>
