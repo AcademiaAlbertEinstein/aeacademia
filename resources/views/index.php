@@ -121,7 +121,7 @@
             <div class="col-sm-12 col-md-6">
               <div class="person-about">
                   <h2 class="about-title">ACERCA DE NOSOTROS</h2>
-                <p>La Academia Albert Einstein fue creada con el objetivo de impartir a los estudiantes los conocimientos necesarios, los cuales permitirán el desemvolvimiento en las diferentes etapas de su vida.</p>
+                <p>La Academia Albert Einstein fue creada con el objetivo de impartir a los estudiantes los conocimientos necesarios, los cuales permitirán el desenvolvimiento en las diferentes etapas de su vida.</p>
               </div>
             </div>
             <!-- about me description -->
@@ -167,7 +167,7 @@
                   <div class="clearfix section-head experience-text">
                     <div class="col-sm-12">
                       <h2 class="title">NUESTROS SERVICIOS</h2>
-                      <p class="regular-text">Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus.</p>
+                      <p class="regular-text">La Academia Albert Einstein ofrece servicios de clases dirijido a los alumnos de todas las edades.</p>
                     </div>
                   </div>
                   <div class="col-lg-12">
@@ -190,7 +190,7 @@
                                   <span class="card-title activator brand-text">PRE UNIVERSITARIO<i class="mdi-navigation-close right"></i></span>
                                 </div>
                                 <p class="rev-content">
-                                  La Academia Albert Eisntein esta encargada de preparar a los futuros universitarios, Se brinda una enseñanza adecuada e integral de esta manera reflejar en el aprendizaje del postulante.
+                                  La Academia Albert Eisntein esta encargada de preparar a los futuros universitarios. Se brinda una enseñanza adecuada e integral de esta manera reflejar en el aprendizaje del postulante.
                                 </p>
                               </div>
                             </div>
@@ -274,7 +274,7 @@
                                   <span class="card-title activator brand-text">VENTA DE LIBROS<i class="mdi-navigation-close right"></i></span>
                                 </div>
                                 <p class="rev-content">
-                                  Ven y encuenta libros preuniversitarios, prepolicial, entre otros muchos más. Puedes descubrir los últimos libros añadidos a la venta, En Academia "Albert Einstein".
+                                  Ven y encuenta libros preuniversitarios, prepolicial, entre otros muchos más. Puedes descubrir los últimos libros añadidos a la venta. En Academia "Albert Einstein".
                                 </p>
                               </div>
                             </div>
@@ -343,7 +343,7 @@
                 <!-- Single Portfolio-->
                 <li class="single-port-item  category-1 category-3 ">
                   <div class="protfolio-image">
-                      <img src="images/portfolio/book-2.jpg" alt="Examenes de la Catolica">
+                      <img src="images/portfolio/book-2.jpg" alt="Exámenes de la Catolica">
                       <div class="protfolio-content waves-effect waves-block waves-light">
                         <div class="protfolio-content__inner">
                           <h2 class="p-title">Exámenes Cátolica</h2>
@@ -373,7 +373,7 @@
                 <!-- Single Portfolio-->
                 <li class="single-port-item category-1 category-3">
                   <div class="protfolio-image">
-                      <img src="images/portfolio/book-4.jpg" alt="Examenes Ricardo Palma">
+                      <img src="images/portfolio/book-4.jpg" alt="Exámenes Ricardo Palma">
                       <div class="protfolio-content waves-effect waves-block waves-light">
                         <div class="protfolio-content__inner">
                           <h2 class="p-title">Exámenes Ricardo Palma</h2>
@@ -388,7 +388,7 @@
                 <!-- Single Portfolio-->
                 <li class="single-port-item category-1 category-3">
                   <div class="protfolio-image">
-                      <img src="images/portfolio/book-5.jpg" alt="Examen San Marcos">
+                      <img src="images/portfolio/book-5.jpg" alt="Exámen San Marcos">
                       <div class="protfolio-content waves-effect waves-block waves-light">
                         <div class="protfolio-content__inner">
                           <h2 class="p-title">Exámenes San Marcos</h2>
@@ -515,10 +515,10 @@
                 <!-- Single Portfolio-->
                 <li class="single-port-item category-1 category-3">
                   <div class="protfolio-image">
-                      <img src="images/portfolio/book-15.jpg" alt="Examenes UNSM">
+                      <img src="images/portfolio/book-15.jpg" alt="Exámenes UNSM">
                       <div class="protfolio-content waves-effect waves-block waves-light">
                         <div class="protfolio-content__inner">
-                          <h2 class="p-title">Examenes Unsm</h2>
+                          <h2 class="p-title">Exámenes Unsm</h2>
                         </div>
                       </div>
                       <div class="p-overlay"></div>
@@ -547,7 +547,7 @@
                   <div class="funfact-box-inner">
                     <div class="clearfix ">
                       <i class="mdi-social-school"></i>
-                      <span class="num countNumb">250</span>
+                      <span class="num countNumb">350</span>
                     </div>
                     <div class="context">Ingresantes</div>
                   </div>
@@ -560,7 +560,7 @@
                   <div class="funfact-box-inner">
                     <div class="clearfix ">
                       <i class="mdi-editor-insert-emoticon"></i>
-                      <span class="num countNumb">500</span>
+                      <span class="num countNumb">700</span>
                     </div>
                     <div class="context">Clientes Satisfechos</div>
                   </div>
@@ -573,7 +573,7 @@
                   <div class="funfact-box-inner">
                     <div class="clearfix ">
                       <i class="mdi-social-group"></i>
-                      <span class="num countNumb">6</span>
+                      <span class="num countNumb">10</span>
                     </div>
                     <div class="context">Años con ustedes</div>
                   </div>
@@ -598,7 +598,7 @@
                 <div class="clearfix section-head blog-text">
                   <div class="col-sm-10">
                     <h2 class="blog-title">Blog</h2>
-                    <p class="regular-text">A Web page that serves as a publicly accessible personal journal for an individual. Typically updated daily, blogs often reflect the personality of the author.</p>
+                    <p class="regular-text">En las siguientes secciones encontrará la información de los resultados de las evaluaciones.</p>
                   </div>
                 </div>
                 <div class="clearfix card-element-wrapper" id="blog-posts">
@@ -608,7 +608,7 @@
                         <div class="card-img-wrap">
                           <div class="post-body">
                             <a href="single.html" class="post-title-link brand-text"><h2 class="post-title">ACADEMIA</h2></a>
-                            <p class="post-content">In consectetuer turpis ut velit. Sed lectus. Ut varius tincidunt libero. Vivamus euismod mauris. Vestibulum fringilla pede sit amet augue. Ut varius tincidunt libero. Pellentesque dapibus hendrerit tortor. </p>
+                            <p class="post-content">En esta sección encontrará los resultados de las evaluaciones tomadas a los estudiantes. </p>
                           </div>
                         </div>
                       </div>
@@ -623,7 +623,7 @@
                         <div class="card-img-wrap">
                           <div class="post-body">
                             <a href="single.html" class="post-title-link brand-text"><h2 class="post-title">SECUNDARIA</h2></a>
-                            <p class="post-content">In consectetuer turpis ut velit. Sed lectus. Ut varius tincidunt libero. Vivamus euismod mauris. Vestibulum fringilla pede sit amet augue. Ut varius tincidunt libero. Pellentesque dapibus hendrerit tortor. </p>
+                            <p class="post-content">En esta sección encontrará los resultados de las evaluaciones tomadas a los estudiantes. </p>
                           </div>
                         </div>
                       </div>
@@ -638,7 +638,7 @@
                         <div class="card-img-wrap">
                           <div class="post-body">
                             <a href="single.html" class="post-title-link brand-text"><h2 class="post-title">PRIMARIA</h2></a>
-                            <p class="post-content">In consectetuer turpis ut velit. Sed lectus. Ut varius tincidunt libero. Vivamus euismod mauris. Vestibulum fringilla pede sit amet augue. Ut varius tincidunt libero. Pellentesque dapibus hendrerit tortor. </p>
+                            <p class="post-content">En esta sección encontrará los resultados de las evaluaciones tomadas a los estudiantes. </p>
                           </div>
                         </div>
                       </div>
@@ -758,7 +758,7 @@
   <script src="js/waypoints.js"></script>
   <script src="js/jquery.counterup.min.js"></script>
   <script src="js/jquery.nicescroll.min.js"></script>
-  <script type="text/javascript" src="https://maps.google.com/maps/api/js?sensor=true"></script>
+  <script type="text/javascript" src="https://maps.google.com/maps/api/js?sensor=true?key= AIzaSyBcqxNskuhKww0pXq7BydUUBwqFphRWv6Q "></script>
   <script src="js/gmaps.js"></script>
   <script src="libs/owl-carousel/owl.carousel.min.js"></script>
   <script src="libs/materialize/js/materialize.min.js"></script>
