@@ -547,7 +547,7 @@
                   <div class="funfact-box-inner">
                     <div class="clearfix ">
                       <i class="mdi-social-school"></i>
-                      <span class="num countNumb">350</span>
+                      <span class="num countNumb">850</span>
                     </div>
                     <div class="context">Ingresantes</div>
                   </div>
@@ -560,7 +560,7 @@
                   <div class="funfact-box-inner">
                     <div class="clearfix ">
                       <i class="mdi-editor-insert-emoticon"></i>
-                      <span class="num countNumb">700</span>
+                      <span class="num countNumb">3000</span>
                     </div>
                     <div class="context">Clientes Satisfechos</div>
                   </div>
@@ -573,7 +573,7 @@
                   <div class="funfact-box-inner">
                     <div class="clearfix ">
                       <i class="mdi-social-group"></i>
-                      <span class="num countNumb">10</span>
+                      <span class="num countNumb">13</span>
                     </div>
                     <div class="context">Años con ustedes</div>
                   </div>
