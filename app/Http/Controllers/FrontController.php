@@ -21,6 +21,21 @@ class FrontController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
+    public function primaria()
+    {
+        return view('primaria');
+    }
+
+    public function secundaria()
+    {
+        return view('secundaria');
+    }
+
+    public function academia()
+    {
+        return view('academia');
+    }
+    
     public function create()
     {
         //
