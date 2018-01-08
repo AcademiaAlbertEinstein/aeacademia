@@ -8,18 +8,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
     <title>AEACADEMIA | sistema</title>
-
-    <link href="admin/css/bootstrap.min.css" rel="stylesheet">
-    <link href="admin/font-awesome/css/font-awesome.css" rel="stylesheet">
-
-    <!-- Toastr style -->
-    <link href="admin/css/plugins/toastr/toastr.min.css" rel="stylesheet">
-
-    <!-- Gritter -->
-    <link href="admin/js/plugins/gritter/jquery.gritter.css" rel="stylesheet">
-
-    <link href="admin/css/animate.css" rel="stylesheet">
-    <link href="admin/css/style.css" rel="stylesheet">
+    {!! Html::style('admin/css/bootstrap.min.css') !!}
+    {!! Html::style('admin/font-awesome/css/font-awesome.css') !!}
+    {!! Html::style('admin/css/plugins/toastr/toastr.min.css') !!}
+    {!! Html::style('admin/js/plugins/gritter/jquery.gritter.css') !!}
+    {!! Html::style('admin/css/animate.css') !!}
+    {!! Html::style('admin/css/style.css') !!}
 
 </head>
 
@@ -34,7 +28,7 @@
                              </span>
                             <a data-toggle="dropdown" class="dropdown-toggle" href="#">
                             <span class="clear"> <span class="block m-t-xs"> <strong class="font-bold">Sara Marlene</strong>
-                             </span> <span class="text-muted text-xs block">Art Director <b class="caret"></b></span> </span> </a>
+                             </span> <span class="text-muted text-xs block">Docente <b class="caret"></b></span> </span> </a>
                             <ul class="dropdown-menu animated fadeInRight m-t-xs">
                                 <li><a href="profile.html">Perfil</a></li>
                                 <li><a href="login.html">Salir</a></li>
@@ -111,50 +105,44 @@
             </ul>
         </nav>
         </div>
+        @yield('titulo')
+
+            <div class="wrapper wrapper-content">
+                @yield('contenido')
+            </div>
+            <div class="footer">
+                <div class="pull-right">
+                    Academia <strong>Albert Einstein</strong>.
+                </div>
+                <div>
+                    <strong>Copyright</strong> Academia Albert Einstein &copy; 2017-2018
+                </div>
+            </div>
+
         </div>
-        @yield('content')
         </div>
  
 
     <!-- Mainly scripts -->
-    <script src="admin/js/jquery-3.1.1.min.js"></script>
-    <script src="admin/js/bootstrap.min.js"></script>
-    <script src="admin/js/plugins/metisMenu/jquery.metisMenu.js"></script>
-    <script src="admin/js/plugins/slimscroll/jquery.slimscroll.min.js"></script>
-
-    <!-- Flot -->
-    <script src="admin/js/plugins/flot/jquery.flot.js"></script>
-    <script src="admin/js/plugins/flot/jquery.flot.tooltip.min.js"></script>
-    <script src="admin/js/plugins/flot/jquery.flot.spline.js"></script>
-    <script src="admin/js/plugins/flot/jquery.flot.resize.js"></script>
-    <script src="admin/js/plugins/flot/jquery.flot.pie.js"></script>
-
-    <!-- Peity -->
-    <script src="admin/js/plugins/peity/jquery.peity.min.js"></script>
-    <script src="admin/js/demo/peity-demo.js"></script>
-
-    <!-- Custom and plugin javascript -->
-    <script src="admin/js/inspinia.js"></script>
-    <script src="admin/js/plugins/pace/pace.min.js"></script>
-
-    <!-- jQuery UI -->
-    <script src="admin/js/plugins/jquery-ui/jquery-ui.min.js"></script>
-
-    <!-- GITTER -->
-    <script src="admin/js/plugins/gritter/jquery.gritter.min.js"></script>
-
-    <!-- Sparkline -->
-    <script src="admin/js/plugins/sparkline/jquery.sparkline.min.js"></script>
-
-    <!-- Sparkline demo data  -->
-    <script src="admin/js/demo/sparkline-demo.js"></script>
-
-    <!-- ChartJS-->
-    <script src="admin/js/plugins/chartJs/Chart.min.js"></script>
-
-    <!-- Toastr -->
-    <script src="admin/js/plugins/toastr/toastr.min.js"></script>
-
+    {!! Html::script('admin/js/jquery-3.1.1.min.js') !!}
+    {!! Html::script('admin/js/bootstrap.min.js') !!}
+    {!! Html::script('admin/js/plugins/metisMenu/jquery.metisMenu.js') !!}
+    {!! Html::script('admin/js/plugins/slimscroll/jquery.slimscroll.min.js') !!}
+    {!! Html::script('admin/js/plugins/flot/jquery.flot.js') !!}
+    {!! Html::script('admin/js/plugins/flot/jquery.flot.tooltip.min.js') !!}
+    {!! Html::script('admin/js/plugins/flot/jquery.flot.spline.js') !!}
+    {!! Html::script('admin/js/plugins/flot/jquery.flot.resize.js') !!}
+    {!! Html::script('admin/js/plugins/flot/jquery.flot.pie.js') !!}
+    {!! Html::script('admin/js/plugins/peity/jquery.peity.min.js') !!}
+    {!! Html::script('admin/js/demo/peity-demo.js') !!}
+    {!! Html::script('admin/js/inspinia.js') !!}
+    {!! Html::script('admin/js/plugins/pace/pace.min.js') !!}
+    {!! Html::script('admin/js/plugins/jquery-ui/jquery-ui.min.js') !!}
+    {!! Html::script('admin/js/plugins/gritter/jquery.gritter.min.js') !!}
+    {!! Html::script('admin/js/plugins/sparkline/jquery.sparkline.min.js') !!}
+    {!! Html::script('admin/js/demo/sparkline-demo.js') !!}
+    {!! Html::script('admin/js/plugins/chartJs/Chart.min.js') !!}
+    {!! Html::script('admin/js/plugins/toastr/toastr.min.js') !!}
 
     <script>
         $(document).ready(function() {

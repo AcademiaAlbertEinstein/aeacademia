@@ -13,29 +13,22 @@
   <meta name="description" content="La Academia Albert Einstein, es una organizacion que se encarga de brindar educación dirigida a los postulantes a las universidades, PNP y reforzamiento estudiantil ">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
   <!-- Favicon-->
-  <link rel="shortcut icon" href="images/favicon-min.png" >
-
-  <!-- Stylesheets -->
-  <link rel="stylesheet" href="css/script.css">
-  <link rel="stylesheet" href="css/normalize.css">
-  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <link rel="stylesheet" href="font/font-awesome/css/font-awesome.min.css">
-  <link rel="stylesheet" href="libs/materialize/css/materialize.min.css" media="screen,projection" />
-  <link rel="stylesheet" href="css/bootstrap.css" media="screen,projection" />
-
-  <link rel="stylesheet" href="css/animate.min.css" media="screen,projection" />
-  <link rel="stylesheet" href="libs/sweetalert/sweet-alert.css" media="screen,projection" />
-
-  <link rel="stylesheet" href="libs/owl-carousel/owl.carousel.css" media="screen,projection" />
-  <link rel="stylesheet" href="libs/owl-carousel/owl.transitions.css" media="screen,projection" />
-  <link rel="stylesheet" href="libs/owl-carousel/owl.theme.css" media="screen,projection" />
-
-  <link rel="stylesheet" href="css/main.css">
-  <link rel="stylesheet" href="css/responsive.css">
-  <link rel="stylesheet" href="css/blog.css">
-
-  <!-- Choose your default colors -->
-  <link rel="stylesheet" href="css/colors/color-base.css">
+  {!! Html::style('images/favicon-min.png') !!}
+  {!! Html::style('css/script.css') !!}
+  {!! Html::style('css/normalize.min.css') !!}
+  {!! Html::style('https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet') !!}
+  {!! Html::style('font/font-awesome/css/font-awesome.min.css') !!}
+  {!! Html::style('libs/materialize/css/materialize.min.css') !!}
+  {!! Html::style('css/bootstrap.min.css') !!}
+  {!! Html::style('css/animate.min.css') !!}
+  {!! Html::style('libs/sweetalert/sweet-alert.css') !!}
+  {!! Html::style('libs/owl-carousel/owl.carousel.css') !!}
+  {!! Html::style('libs/owl-carousel/owl.transitions.css') !!}
+  {!! Html::style('libs/owl-carousel/owl.theme.css') !!}
+  {!! Html::style('css/main.min.css') !!}
+  {!! Html::style('css/responsive.min.css') !!}
+  {!! Html::style('css/blog.min.css') !!}
+  {!! Html::style('css/colors/color-base.css') !!}
 
   <!--[if lt IE 9]>
       <script src="js/html5shiv.js"></script>
@@ -48,22 +41,22 @@
 
 
   <!-- JavaScripts -->
-  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-  <script src="js/jquery.easing.1.3.js"></script>
-  <script src="js/detectmobilebrowser.js"></script>
-  <script src="js/isotope.pkgd.min.js"></script>
-  <script src="js/wow.min.js"></script>
-  <script src="js/waypoints.js"></script>
-  <script src="js/jquery.counterup.min.js"></script>
-  <script src="js/jquery.nicescroll.min.js"></script>
-  <script type="text/javascript" src="https://maps.google.com/maps/api/js?key=AIzaSyBcqxNskuhKww0pXq7BydUUBwqFphRWv6Q"></script>
-  <script src="js/gmaps.js"></script>
-  <script src="libs/owl-carousel/owl.carousel.min.js"></script>
-  <script src="libs/materialize/js/materialize.min.js"></script>
-  <script src="libs/jwplayer/jwplayer.js"></script>
-  <script src="libs/sweetalert/sweet-alert.min.js"></script>
-  <script src="js/common.js"></script>
-  <script src="js/main.js"></script>
+  {!! Html::script('https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js') !!}
+  {!! Html::script('js/jquery.easing.1.3.min.js') !!}
+  {!! Html::script('js/detectmobilebrowser.js') !!}
+  {!! Html::script('js/isotope.pkgd.min.js') !!}
+  {!! Html::script('js/wow.min.js') !!}
+  {!! Html::script('js/waypoints.js') !!}
+  {!! Html::script('js/jquery.counterup.min.js') !!}
+  {!! Html::script('js/jquery.nicescroll.min.js') !!}
+  {!! Html::script('https://maps.google.com/maps/api/js?key=AIzaSyBcqxNskuhKww0pXq7BydUUBwqFphRWv6Q') !!}
+  {!! Html::script('js/gmaps.min.js') !!}
+  {!! Html::script('libs/owl-carousel/owl.carousel.min.js') !!}
+  {!! Html::script('libs/materialize/js/materialize.min.js') !!}
+  {!! Html::script('libs/jwplayer/jwplayer.js') !!}
+  {!! Html::script('libs/sweetalert/sweet-alert.min.js') !!}
+  {!! Html::script('js/common.js') !!}
+  {!! Html::script('js/main.js') !!}
 </body>
 
 </html>
