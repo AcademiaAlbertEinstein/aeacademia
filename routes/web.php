@@ -15,3 +15,4 @@ Route::get('/', 'FrontController@index');
 Route::get('/primaria', 'FrontController@primaria');
 Route::get('/secundaria', 'FrontController@secundaria');
 Route::get('/academia', 'FrontController@academia');
+Route::get('/ingresar', 'FrontController@ingresar');

@@ -26,6 +26,10 @@ class FrontController extends Controller
         return view('primaria');
     }
 
+    public function ingresar()
+    {
+        return view('layouts.admin');
+    }
     public function secundaria()
     {
         return view('secundaria');
